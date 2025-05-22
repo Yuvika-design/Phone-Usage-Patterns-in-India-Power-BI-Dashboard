@@ -20,7 +20,8 @@ To identify and understand how different age groups, regions, and genders contri
 - **CSV/Excel Data Sources**
 
 ## 📷 Dashboard Preview
-> *(Insert screenshot here once uploaded to repo)*
+![image](https://github.com/user-attachments/assets/4be726b4-1f84-482f-8031-cb25d76640b2)
 
-## 📂 File Structure
+
+
 
